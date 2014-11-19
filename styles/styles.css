@@ -1,0 +1,33 @@
+/**
+* ===========================================================================
+* styles.css -- Global styles for the MyRWD website
+* ===========================================================================
+*
+*Created November 12, 2014
+*
+*Authored by Katie Senk
+*
+*/
+
+/*-----Basic Styling-----*/
+
+body {
+  background-color: lightblue;
+} 
+#page-wrapper {
+  background-color: white;
+  width: 768px;
+  margin: auto;
+}
+#content {
+  background-color: #f7f2da;
+  padding: 0em 0em 0em 1em;
+  margin-bottom: 10px;
+}
+#nav {
+  background-color: gray;
+}
+#nav ul {
+  padding: 3em 10em;
+  list-style-type: none;
+}
